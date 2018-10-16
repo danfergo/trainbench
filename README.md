@@ -6,7 +6,7 @@ Trainbench is a tool for quickly setup a (Deep Learning) cross-validation traini
 
 Compatible with Keras.
 
-**! ⚠️ This  package is currently under active development ⚠️ !**
+**⚠️ This  package is currently under active development!**
 
 ## Getting started
 
